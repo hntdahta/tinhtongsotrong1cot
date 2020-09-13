@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\tinhtongsotrong1cot\bin\Debug\netcoreapp3.1\tinhtongsotrong1cot.exe
+C:\Users\Administrator\source\repos\tinhtongsotrong1cot\bin\Debug\netcoreapp3.1\tinhtongsotrong1cot.deps.json
+C:\Users\Administrator\source\repos\tinhtongsotrong1cot\bin\Debug\netcoreapp3.1\tinhtongsotrong1cot.runtimeconfig.json
+C:\Users\Administrator\source\repos\tinhtongsotrong1cot\bin\Debug\netcoreapp3.1\tinhtongsotrong1cot.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\tinhtongsotrong1cot\bin\Debug\netcoreapp3.1\tinhtongsotrong1cot.dll
+C:\Users\Administrator\source\repos\tinhtongsotrong1cot\bin\Debug\netcoreapp3.1\tinhtongsotrong1cot.pdb
+C:\Users\Administrator\source\repos\tinhtongsotrong1cot\obj\Debug\netcoreapp3.1\tinhtongsotrong1cot.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\tinhtongsotrong1cot\obj\Debug\netcoreapp3.1\tinhtongsotrong1cot.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\tinhtongsotrong1cot\obj\Debug\netcoreapp3.1\tinhtongsotrong1cot.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\tinhtongsotrong1cot\obj\Debug\netcoreapp3.1\tinhtongsotrong1cot.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\tinhtongsotrong1cot\obj\Debug\netcoreapp3.1\tinhtongsotrong1cot.dll
+C:\Users\Administrator\source\repos\tinhtongsotrong1cot\obj\Debug\netcoreapp3.1\tinhtongsotrong1cot.pdb
+C:\Users\Administrator\source\repos\tinhtongsotrong1cot\obj\Debug\netcoreapp3.1\tinhtongsotrong1cot.genruntimeconfig.cache
