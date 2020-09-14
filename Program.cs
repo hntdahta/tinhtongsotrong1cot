@@ -18,7 +18,7 @@ namespace tinhtongsotrong1cot
         {
             for (int i = 0; i < d * c; i++)
             {
-                Console.Write("{0}    ", A[i / c, i % c]);
+                Console.Write("{0}    ", A[i % c, i / c]);
                 if ((i + 1) % c == 0)
                 {
                     Console.Write("\n");
